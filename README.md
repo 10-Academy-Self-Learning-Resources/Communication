@@ -12,7 +12,7 @@ Communication is: the act of developing meaning among entities or groups through
 - Daily, in communication and partnership with your colleagues in your team
 - Regularly, when reporting back to your manager
 
-##-Why is it important to learn about Communication before starting my ML career?
+## Why is it important to learn about Communication before starting my ML career?
 - Learning how to share the results of your work is an important part of your work, not an easy add-on
 - Learning to communicate with your team mates is an important part of learning fast and learning well
 
